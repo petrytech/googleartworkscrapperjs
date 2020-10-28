@@ -1,7 +1,7 @@
 
 ## Google Artwork Scrapper
 
-Simple data scrapper from capturing data related to author and his/hers artwork
+Simple data scraper from capturing data related to author and his/hers artwork
 
 P.S: This is a POC
 
