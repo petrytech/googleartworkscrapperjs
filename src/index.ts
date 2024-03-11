@@ -10,6 +10,9 @@ dataScraper.getData().then(
     (data)=>{
         
         const json = JSON.stringify(data, null, 4)
+
+        console.log(json)
+
         fs.writeFileSync('./tmp/result.json', json)
 
         console.log(json)
